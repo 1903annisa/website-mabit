@@ -1,31 +1,52 @@
-Paradigm Shift by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Website Ma'had Bina Tahfidz Indonesia
 
+Website resmi **Ma'had Bina Tahfidz Indonesia (MABIT)** yang digunakan untuk memberikan informasi mengenai profil ma'had, kegiatan, ekstrakurikuler, galeri, dan informasi kontak.
 
-Say hello to Paradigm Shift, my first addition to HTML5 UP in more than a year (!!!).
-Took things in a slightly different direction with this one, partly to mess with CSS
-grid (which this one relies on pretty heavily) but mostly to get back to making weirder
-and more experimental designs/layouts. Anyway, hope you dig it, and thanks for the
-continued support despite the lack of updates :)
+## 🌐 Website
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Website ini dapat diakses melalui GitHub Pages:
 
-(* = not included)
+**https://1903annisa.github.io/website-mabit/**
 
-AJ
-aj@lkn.io | @ajlkn
+## 📌 Tentang Project
 
+Project ini dibuat sebagai website informasi untuk:
 
-Credits:
+* Profil Ma'had Bina Tahfidz Indonesia
+* Informasi kegiatan ma'had
+* Informasi ekstrakurikuler
+* Dokumentasi kegiatan
+* Informasi kontak
 
-	Demo Images:
-		Unsplash (unsplash.com)
+## 🛠️ Teknologi
 
-	Icons:
-		Font Awesome (fontawesome.io)
+Website ini dibangun menggunakan:
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+* HTML5
+* CSS3
+* JavaScript
+* Template dasar [Paradigm Shift](https://html5up.net/paradigm-shift) dari HTML5 UP
+
+## 📁 Struktur Project
+
+```text
+website-mabit/
+├── assets/
+├── css/
+├── images/
+├── js/
+├── index.html
+└── README.md
+```
+
+## 📄 Lisensi
+
+Project ini menggunakan template **Paradigm Shift** dari HTML5 UP yang dilisensikan di bawah **Creative Commons Attribution 3.0 (CCA 3.0)**.
+
+Template asli:
+https://html5up.net/paradigm-shift
+
+---
+
+**Ma'had Bina Tahfidz Indonesia**
+Yayasan Bina At Taqwa Mandiri
