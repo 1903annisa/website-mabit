@@ -3978,3 +3978,9 @@ section:not(.intro) > header {
     }
 
 }
+
+.catatan {
+    font-size: 0.85em;
+    font-style: italic;
+    margin-top: -10px;
+}
